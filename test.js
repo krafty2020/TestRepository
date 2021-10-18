@@ -1,5 +1,6 @@
+x
 <<<<<<< HEAD
-alert("wowQ~");
+alert("wow~");
 =======
 
 console.log('hello');
